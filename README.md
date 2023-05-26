@@ -1,2 +1,2 @@
 # BI-and-Data-Analytics
-projects around data analytics.
+Projects around data analytics.
